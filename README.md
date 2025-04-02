@@ -1,1 +1,1 @@
-[demo](https://github.com/asommar/posmotri_v_okno/deployments/github-pages)
+[demo](https://asommar.github.io/posmotri_v_okno/)
